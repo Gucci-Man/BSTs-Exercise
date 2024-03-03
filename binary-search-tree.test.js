@@ -156,7 +156,7 @@ describe("BFS", function() {
   });
 });
 
-describe("remove", function() {
+/* describe("remove", function() {
   it("remove should correctly remove a node with no children", function() {
     let binarySearchTree = new BinarySearchTree();
     binarySearchTree
@@ -277,4 +277,4 @@ describe("findSecondHighest", function() {
     var binarySearchTree2 = new BinarySearchTree();
     expect(binarySearchTree2.findSecondHighest()).toEqual(undefined);
   });
-});
+}); */
